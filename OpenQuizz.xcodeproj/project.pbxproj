@@ -16,6 +16,7 @@
 		D57481062427A9AC00593FDF /* Balham.otf in Resources */ = {isa = PBXBuildFile; fileRef = D57481052427A9AC00593FDF /* Balham.otf */; };
 		D575CC0F2427DE7F004991D2 /* Question.swift in Sources */ = {isa = PBXBuildFile; fileRef = D575CC0E2427DE7F004991D2 /* Question.swift */; };
 		D575CC152427E31D004991D2 /* Question.swift in Sources */ = {isa = PBXBuildFile; fileRef = D575CC142427E31D004991D2 /* Question.swift */; };
+		D575CC172427FC79004991D2 /* Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = D575CC162427FC79004991D2 /* Game.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		D57481052427A9AC00593FDF /* Balham.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Balham.otf; sourceTree = "<group>"; };
 		D575CC0E2427DE7F004991D2 /* Question.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Question.swift; sourceTree = "<group>"; };
 		D575CC142427E31D004991D2 /* Question.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Question.swift; sourceTree = "<group>"; };
+		D575CC162427FC79004991D2 /* Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Game.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +77,7 @@
 			isa = PBXGroup;
 			children = (
 				D575CC142427E31D004991D2 /* Question.swift */,
+				D575CC162427FC79004991D2 /* Game.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -181,6 +184,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D575CC152427E31D004991D2 /* Question.swift in Sources */,
+				D575CC172427FC79004991D2 /* Game.swift in Sources */,
 				D57480F62427A77F00593FDF /* ViewController.swift in Sources */,
 				D575CC0F2427DE7F004991D2 /* Question.swift in Sources */,
 				D57480F22427A77F00593FDF /* AppDelegate.swift in Sources */,
