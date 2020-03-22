@@ -15,6 +15,7 @@
 		D57480FE2427A78000593FDF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D57480FC2427A78000593FDF /* LaunchScreen.storyboard */; };
 		D57481062427A9AC00593FDF /* Balham.otf in Resources */ = {isa = PBXBuildFile; fileRef = D57481052427A9AC00593FDF /* Balham.otf */; };
 		D575CC0F2427DE7F004991D2 /* Question.swift in Sources */ = {isa = PBXBuildFile; fileRef = D575CC0E2427DE7F004991D2 /* Question.swift */; };
+		D575CC152427E31D004991D2 /* Question.swift in Sources */ = {isa = PBXBuildFile; fileRef = D575CC142427E31D004991D2 /* Question.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		D57480FF2427A78000593FDF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D57481052427A9AC00593FDF /* Balham.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Balham.otf; sourceTree = "<group>"; };
 		D575CC0E2427DE7F004991D2 /* Question.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Question.swift; sourceTree = "<group>"; };
+		D575CC142427E31D004991D2 /* Question.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Question.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +74,7 @@
 		D575CC102427E044004991D2 /* Model */ = {
 			isa = PBXGroup;
 			children = (
+				D575CC142427E31D004991D2 /* Question.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -177,6 +180,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D575CC152427E31D004991D2 /* Question.swift in Sources */,
 				D57480F62427A77F00593FDF /* ViewController.swift in Sources */,
 				D575CC0F2427DE7F004991D2 /* Question.swift in Sources */,
 				D57480F22427A77F00593FDF /* AppDelegate.swift in Sources */,
