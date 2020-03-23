@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D50D82B42429458A005D0315 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D50D82B32429458A005D0315 /* Default-568h@2x.png */; };
 		D57480F22427A77F00593FDF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D57480F12427A77F00593FDF /* AppDelegate.swift */; };
 		D57480F42427A77F00593FDF /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D57480F32427A77F00593FDF /* SceneDelegate.swift */; };
 		D57480F62427A77F00593FDF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D57480F52427A77F00593FDF /* ViewController.swift */; };
@@ -21,6 +22,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D50D82B32429458A005D0315 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		D57480EE2427A77F00593FDF /* OpenQuizz.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OpenQuizz.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D57480F12427A77F00593FDF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D57480F32427A77F00593FDF /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -50,6 +52,7 @@
 		D57480E52427A77F00593FDF = {
 			isa = PBXGroup;
 			children = (
+				D50D82B32429458A005D0315 /* Default-568h@2x.png */,
 				D575CC0E2427DE7F004991D2 /* Question.swift */,
 				D57480F02427A77F00593FDF /* OpenQuizz */,
 				D57480EF2427A77F00593FDF /* Products */,
@@ -175,6 +178,7 @@
 				D57480FE2427A78000593FDF /* LaunchScreen.storyboard in Resources */,
 				D57480FB2427A78000593FDF /* Assets.xcassets in Resources */,
 				D57481062427A9AC00593FDF /* Balham.otf in Resources */,
+				D50D82B42429458A005D0315 /* Default-568h@2x.png in Resources */,
 				D57480F92427A77F00593FDF /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
